@@ -1,0 +1,34 @@
+[
+    {
+        "player_name": "R. Funes Mori",
+        "player_number": "7",
+        "team_name": "Monterrey",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/952_r-funes-mori.jpg"
+    },
+
+    {
+        "player_name": "E. Haaland",
+        "player_number": "9",
+        "team_name": "Manchester City",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/68451_e-haaland.jpg"
+    },
+    {
+        "player_name": "T. Minamino",
+        "player_number": "10",
+        "team_name": "Monaco",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/16356_t-minamino.jpg"
+    },
+    {
+        "player_name": "Son Heung-Min",
+        "player_number": "7",
+        "team_name": "Tottenham Hotspur",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/443_son-heung-min.jpg"
+    },
+    {
+        "player_name": "A. Gignac",
+        "player_number": "10",
+        "team_name": "Tigres UANL",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/40221_a-gignac.jpg"
+
+    }
+]
