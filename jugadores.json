@@ -4,6 +4,7 @@
         "player_number": "7",
         "player_age": "31",
         "team_name": "Monterrey",
+        "country": "Mexico",
         "player_image": "https://apiv2.allsportsapi.com/logo/players/952_r-funes-mori.jpg",
         "country_flag": "https://countryflagsapi.com/svg/mexico"
     },
@@ -12,6 +13,7 @@
         "player_number": "10",
         "player_age":"36",
         "team_name": "Tigres UANL",
+        "country": "Francia",
         "player_image": "https://apiv2.allsportsapi.com/logo/players/40221_a-gignac.jpg",
         "country_flag": "https://countryflagsapi.com/svg/france"
     },
@@ -20,6 +22,7 @@
         "player_number": "10",
         "player_age":"27",
         "team_name": "Monaco",
+        "country": "Japon",
         "player_image": "https://apiv2.allsportsapi.com/logo/players/16356_t-minamino.jpg",
         "country_flag": "https://countryflagsapi.com/svg/italy"
 
@@ -29,6 +32,7 @@
         "player_number": "92",
         "player_age": "29",
         "team_name": "Roma",
+        "country": "Italia",
         "player_image": "https://apiv2.allsportsapi.com/logo/players/101412_s-el-shaarawy.jpg"
     },
     {
@@ -36,6 +40,7 @@
         "player_number": "9",
         "player_age":"22",
         "team_name": "Manchester City",
+        "country": "Noruega",
         "player_image": "https://apiv2.allsportsapi.com/logo/players/68451_e-haaland.jpg",
         "country_flag": "https://countryflagsapi.com/svg/norway"
     },
@@ -44,6 +49,7 @@
         "player_number": "7",
         "player_age":"29",
         "team_name": "Tottenham Hotspur",
+        "country": "Corea del sur",
         "player_image": "https://apiv2.allsportsapi.com/logo/players/443_son-heung-min.jpg",
         "country_flag": "https://countryflagsapi.com/svg/the republic of korea"
     },
@@ -52,6 +58,7 @@
         "player_number": "10",
         "player_age": "27",
         "team_name": "Manchester City",
+        "country": "Inglaterra",
         "player_image": "https://apiv2.allsportsapi.com/logo/players/20508_j-grealish.jpg",
         "country_flag": "https://countryflagsapi.com/svg/england"
     }
