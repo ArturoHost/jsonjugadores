@@ -1,0 +1,61 @@
+[
+    {
+        "player_name": "R. Funes Mori",
+        "player_number": "7",
+        "player_age": "31",
+        "team_name": "Monterrey",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/952_r-funes-mori.jpg",
+        "country_flag": "https://countryflagsapi.com/png/mexico"
+    },
+    {
+        "player_name": "A. Gignac",
+        "player_number": "10",
+        "player_age":"36",
+        "team_name": "Tigres UANL",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/40221_a-gignac.jpg",
+        "country_flag": "https://countryflagsapi.com/png/france"
+    },
+    {
+        "player_name": "T. Minamino",
+        "player_number": "10",
+        "player_age":"27",
+        "team_name": "Monaco",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/16356_t-minamino.jpg",
+        "country_flag": "https://countryflagsapi.com/png/japan"
+
+    },
+    {
+        "player_name": "S. El Shaarawy",
+        "player_number": "92",
+        "player_age": "29",
+        "team_name": "Roma",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/101412_s-el-shaarawy.jpg",
+        "country_flag": "https://countryflagsapi.com/png/italy"
+
+    },
+    {
+        "player_name": "E. Haaland",
+        "player_number": "9",
+        "player_age":"22",
+        "team_name": "Manchester City",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/68451_e-haaland.jpg",
+        "country_flag": "https://countryflagsapi.com/png/norway"
+    },
+    {
+        "player_name": "Son Heung-Min",
+        "player_number": "7",
+        "player_age":"29",
+        "team_name": "Tottenham Hotspur",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/443_son-heung-min.jpg",
+        "country_flag": "https://countryflagsapi.com/png/the republic of korea"
+    },
+    {
+        "player_name": "J. Grealish",
+        "player_number": "10",
+        "player_age": "27",
+        "team_name": "Manchester City",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/20508_j-grealish.jpg",
+        "country_flag": "https://countryflagsapi.com/png/england"
+    }
+    
+]
