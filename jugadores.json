@@ -1,0 +1,83 @@
+[
+    {
+        "player_name": "R. Funes Mori",
+        "player_number": "7",
+        "player_age": "31",
+        "team_name": "Monterrey",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/952_r-funes-mori.jpg",
+        "country_flag": "https://countryflagsapi.com/svg/mexico"
+    },
+    {
+        "player_name": "S. El Shaarawy",
+        "player_number": "92",
+        "player_age": "29",
+        "team_name": "Roma",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/101412_s-el-shaarawy.jpg"
+    },
+    {
+        "player_name": "T. Minamino",
+        "player_number": "10",
+        "player_age":"27",
+        "team_name": "Monaco",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/16356_t-minamino.jpg",
+        "country_flag": "https://countryflagsapi.com/svg/italy"
+
+    },
+    {
+        "player_name": "E. Haaland",
+        "player_number": "9",
+        "player_age":"22",
+        "team_name": "Manchester City",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/68451_e-haaland.jpg",
+        "country_flag": "https://countryflagsapi.com/svg/norway"
+    },
+    {
+        "player_name": "Son Heung-Min",
+        "player_number": "7",
+        "player_age":"29",
+        "team_name": "Tottenham Hotspur",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/443_son-heung-min.jpg",
+        "country_flag": "https://countryflagsapi.com/svg/the republic of korea"
+    },
+    {
+        "player_name": "A. Gignac",
+        "player_number": "10",
+        "player_age":"36",
+        "team_name": "Tigres UANL",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/40221_a-gignac.jpg",
+        "country_flag": "https://countryflagsapi.com/svg/france"
+    },
+    {
+        "player_name": "J. Grealish",
+        "player_number": "10",
+        "player_age": "27",
+        "team_name": "Manchester City",
+        "player_image": "https://apiv2.allsportsapi.com/logo/players/20508_j-grealish.jpg",
+        "country_flag": "https://countryflagsapi.com/svg/england"
+    },
+    {
+        "player_name": "A. Cervantes",
+        "player_number": "99",
+        "player_age": "22",
+        "team_name": "LaPandillaDinamica",
+        "player_image": "https://github.com/ArturoHost/jsonjugadores/blob/e3ef3a92410b68e7a98aba4273432c469ce94d7e/1664682961829.jpg",
+        "country_flag": "https://countryflagsapi.com/svg/mexico"   
+    },
+    {
+        "player_name": "Cabrera",
+        "player_number": "82",
+        "player_age": "50",
+        "team_name": "Oracle",
+        "player_image": "https://github.com/ArturoHost/jsonjugadores/blob/e3ef3a92410b68e7a98aba4273432c469ce94d7e/1664682961810.png",
+        "country_flag": "https://countryflagsapi.com/svg/mexico"   
+    },
+    {
+        "player_name": "Reynoso",
+        "player_number": "Who Works",
+        "player_age": "50",
+        "team_name": "LoT",
+        "player_image": "https://github.com/ArturoHost/jsonjugadores/blob/e3ef3a92410b68e7a98aba4273432c469ce94d7e/1664682961817.jpg",
+        "country_flag": "https://countryflagsapi.com/svg/mexico"
+    }
+    
+]
